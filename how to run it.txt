@@ -1,0 +1,3 @@
+Everything is done just chnage sentinetal.conf
+and run it with this
+./venv/bin/python bin/sentinel.py
