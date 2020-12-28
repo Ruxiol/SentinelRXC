@@ -39,7 +39,7 @@ Make sure the local DashCore daemon running is at least version 12.1 (120100)
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/dashpay/sentinel.git && cd sentinel
+    $ git clone https://git.crypto.ba/rux/rxcsentinel.git && cd rxcsentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
