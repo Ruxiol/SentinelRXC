@@ -1,4 +1,5 @@
 # RXC Sentinel
+![](https://crypto.ba/uploads/default/original/1X/b208f356085ca24f7dd57fcd304fad8f8b0552b5.png)
 
 [![Build Status](https://travis-ci.org/dashpay/sentinel.svg?branch=master)](https://travis-ci.org/dashpay/sentinel)
 
