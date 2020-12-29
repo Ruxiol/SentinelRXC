@@ -4,7 +4,7 @@
 
 > An automated governance helper for RXC Masternodes.
 
-Sentinel is an autonomous agent for persisting, processing and automating Dash governance objects and tasks. It is a Python application which runs alongside the DashCore instance on each Dash Masternode.
+Sentinel is an autonomous agent for persisting, processing and automating RXC governance objects and tasks. It is a Python application which runs alongside the RXC Core instance on each RXC Masternode.
 
 ## Table of Contents
 - [Install](#install)
@@ -31,15 +31,11 @@ Update system packages and ensure virtualenv is installed:
     $ sudo apt-get update
     $ sudo apt-get -y install python-virtualenv
 
-Make sure the local RXCCore daemon running is at least version 12.1 (120100)
-
-    $ dash-cli getinfo | grep version
-
 ### Install Sentinel
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://git.crypto.ba/rux/rxcsentinel.git && cd rxcsentinel
+    $ git clone https://git.crypto.ba/rux/SentinelRXC.git && cd SentinelRXC
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
