@@ -35,7 +35,7 @@ Update system packages and ensure virtualenv is installed:
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://git.crypto.ba/rux/SentinelRXC.git && cd SentinelRXC
+    $ git clone https://github.com/Ruxiol/SentinelRXC && cd SentinelRXC
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
